@@ -1,6 +1,6 @@
 # UniswapV3 Tests
 
-🦕 module to test uniswap v3 features because we utilize uniswap v3 for Freedom Cash Investment Bets
+🦕 [module](https://deno.land/x/uniswap_v3_tests) to test uniswap v3 features because we utilize uniswap v3 for Freedom Cash Investment Bets
 
 ## Usage Example
 
